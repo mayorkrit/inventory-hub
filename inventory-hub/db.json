@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "quantity": 5,
+        "price": 1000
+      },
+      {
+        "id": 2,
+        "name": "Chair",
+        "category": "Furniture",
+        "quantity": 20,
+        "price": 150
+      }
+    ]
+  }
+  
